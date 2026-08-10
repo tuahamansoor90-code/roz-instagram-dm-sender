@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Database (sensitive user data)
+*.db
+*.sqlite
+*.sqlite3
+
+# Browser Session (private login cookies)
+instagram_session/
+temp_instagram_session/
+
+# Screenshots (runtime generated)
+screenshots/
+scratch_profile.png
+
+# Keys / Secrets
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Logs
+*.log
